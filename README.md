@@ -1,8 +1,8 @@
 Recommended file structure of project :
 
-index.html
-./lib/script/gdrp.js
-./lib/script/send/consent/index.php
+- index.html
+- ./lib/script/gdrp.js
+- ./lib/script/send/consent/index.php
 
 # GDPR Consent Banner
 
