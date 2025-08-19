@@ -48,10 +48,10 @@ Inside your `<head>`:
 In `gdrp.js` configure:
 
 ```js
-const API_URL = "https://rohhs.com/example/lib/script/save/consent/index.php";
+const API_URL = "https://domainname.com/lib/script/save/consent/index.php";
 ```
 
-This endpoint receives JSON consent records.
+This updated endpoint receives JSON consent records.
 
 ---
 
