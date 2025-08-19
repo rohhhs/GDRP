@@ -27,6 +27,8 @@ Vanilla JS banner for GDPR/CCPA cookie consent with multilingual support (RU/EN)
  ├── index.html   # Example usage page
  ├── gdrp.js      # Banner logic (multilingual, consent management)
  └── style.css    # Banner + modal styles
+/script/send/consent/
+ └── index.php
 ```
 
 ---
