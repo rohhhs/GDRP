@@ -1,3 +1,9 @@
+Recommended file structure of project :
+
+index.html
+./lib/script/gdrp.js
+./lib/script/send/consent/index.php
+
 # GDPR Consent Banner
 
 Vanilla JS banner for GDPR/CCPA cookie consent with multilingual support (RU/EN), category management, and API logging.
