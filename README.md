@@ -20,7 +20,7 @@ Vanilla JS banner for GDPR/CCPA cookie consent with multilingual support (RU/EN)
 
 ---
 
-## 📂 Project Structure
+## 📂 Alternative Project Structure
 
 ```
 /gdrp/
