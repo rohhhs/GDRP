@@ -4,7 +4,7 @@
   /***** CONFIG *****/
   const CONSENT_STORAGE_KEY = 'cookie_consent_v3';
   const CONSENT_SERVER_URL = 'https://rohhs.com/example/lib/script/save/consent/index.php';
-  const YM_COUNTER_ID = 103804158;
+  const YM_COUNTER_ID = XXXXXXXXX;
   const GTM_ID = 'GTM-XXXXXXX';
   // How many days to hide the banner after explicit user decision (accept/reject/save)
   const BANNER_HIDE_DAYS = 90; // set to 0 to disable auto-hide
