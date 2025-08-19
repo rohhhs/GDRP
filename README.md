@@ -1,3 +1,5 @@
+## Note that gdrp.js almost autonomious and style.css is just an example of it's part
+
 Recommended file structure of project :
 
 - index.html
